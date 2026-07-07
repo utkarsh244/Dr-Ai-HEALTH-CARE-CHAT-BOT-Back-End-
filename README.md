@@ -1,19 +1,19 @@
-##🩺 AI Doctor Backend (RAG Powered)
+**🩺 AI Doctor Backend (RAG Powered)
 
 An AI-powered medical assistant backend built with FastAPI, Groq Llama 4, Whisper, and ChromaDB. It supports symptom analysis, medical image understanding, voice transcription, medical report analysis, and Retrieval-Augmented Generation (RAG) using custom medical PDFs.
 
-##Features
+**Features
 
--💬 AI symptom analysis using Groq Llama 4
--🖼️ Medical image analysis
--🎤 Voice-to-text using Whisper
--🔊 Text-to-speech responses
--📄 Medical report (PDF/Image) analysis
--📚 RAG-powered medical knowledge base with ChromaDB
--🌍 Multilingual support (English, Hindi, Spanish, French, etc.)
--📰 Latest health news API
--👤 User-specific document indexing
--🔧 Admin PDF upload & management
+--💬 AI symptom analysis using Groq Llama 4
+--🖼️ Medical image analysis
+--🎤 Voice-to-text using Whisper
+--🔊 Text-to-speech responses
+--📄 Medical report (PDF/Image) analysis
+--📚 RAG-powered medical knowledge base with ChromaDB
+--🌍 Multilingual support (English, Hindi, Spanish, French, etc.)
+--📰 Latest health news API
+--👤 User-specific document indexing
+--🔧 Admin PDF upload & management
 
 ##Tech Stack
 -FastAPI
