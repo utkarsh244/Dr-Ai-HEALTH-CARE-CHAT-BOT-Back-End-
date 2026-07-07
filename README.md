@@ -45,19 +45,6 @@ cd <repository-folder>
 pip install -r requirements.txt
 ```
 
-Create a `.env` file:
-
-```env
-GROQ_API_KEY=your_key
-NEWS_API_KEY=your_key
-```
-
-(Optional)
-
-```bash
-python ingest_pdfs.py --folder ./medical_pdfs
-```
-
 ## Run
 
 ```bash
